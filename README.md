@@ -22,8 +22,8 @@ Research project analyzing how bias and democratic deliberation play out on Wiki
 Statistical analysis of how lifestyle and study habits relate to academic performance, using classification models (Random Forest, KNN, Naive Bayes) and exploratory data analysis on a simulated Kaggle dataset.
 `Python` `Jupyter Notebook` `Classification Models` `EDA`
 
-## 🛠️ Skills
-Python · SQL · Machine Learning · NLP · Remote Sensing · Data Analysis & Visualization · Git/GitHub
+## Skills
+Python · SQL · Machine Learning · Remote Sensing · Data Analysis & Visualization · Git/GitHub
 
 ## Get in touch
 [LinkedIn](https://www.linkedin.com/in/brooke-england-998584265/) · [Email](mailto:brooklyncengland3@gmail.com)
