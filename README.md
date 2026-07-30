@@ -1,10 +1,10 @@
-# Hi, I'm Brooke England 👋
+# Hi, I'm Brooke England
 
-Data Science Student @ Chapman | Python, SQL, and machine learning for research and real-world data
+Recent Data Science graduate from Chapman University  | Python, SQL, and Machine Learning for research and real-world data
 
-I like turning messy data into evidence — whether that's audio features, Wikipedia talk pages, or customer records. Below are a few projects I'm proud of.
+Below are a few projects I'm proud of.
 
-## 🔭 Featured projects
+## Featured projects
 
 ### [Spotify Recommendation System](https://github.com/brookeengland/Spotify-Recommendation-System)
 Music recommendation system built on Spotify audio features, comparing KNN (Euclidean and cosine similarity), K-Means, and DBSCAN to evaluate how well numerical audio features capture perceived musical similarity.
@@ -25,5 +25,5 @@ Statistical analysis of how lifestyle and study habits relate to academic perfor
 ## 🛠️ Skills
 Python · SQL · Machine Learning · NLP · Remote Sensing · Data Analysis & Visualization · Git/GitHub
 
-## 📫 Get in touch
-[LinkedIn](https://www.linkedin.com/in/brooke-england-998584265/) · [Email](mailto:brooklyncengland@gmail.com)
+## Get in touch
+[LinkedIn](https://www.linkedin.com/in/brooke-england-998584265/) · [Email](mailto:brooklyncengland3@gmail.com)
