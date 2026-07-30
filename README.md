@@ -2,8 +2,6 @@
 
 Recent Data Science graduate from Chapman University  | Python, SQL, and Machine Learning for research and real-world data
 
-Below are a few projects I'm proud of.
-
 ## Featured projects
 
 ### [Spotify Recommendation System](https://github.com/brookeengland/Spotify-Recommendation-System)
